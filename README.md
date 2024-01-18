@@ -13,13 +13,13 @@
 
 
 ## How to Contribute
-### Fork the Repository
+#### Fork the Repository
       Click on the 'Fork' button at the top right of the repository.
-### Clone the Repository
+#### Clone the Repository
       Clone the repository to your local machine using git clone.
-### Make Changes
+#### Make Changes
       Make necessary changes or add new features.
-### Create a Pull Request
+#### Create a Pull Request
       Push your changes to your forked repository and create a pull request.
 ## Getting Started
       To view the website locally:
@@ -30,20 +30,20 @@
 ## Contact Information
 For any inquiries, reach out to:
 
-### Utkarsh Shrivastawa
-### Email: utkarsh5604.srivastava@gmail.com
-### Phone: (+91)7482072609
+#### Utkarsh Shrivastawa
+#### Email: utkarsh5604.srivastava@gmail.com
+#### Phone: (+91)7482072609
 
 
 ## Social Media
-### Connect with us on social media for updates:
+#### Connect with us on social media for updates:
     Facebook
     LinkedIn
     Instagram and Twitter: Links available on the website.
 
 
 # To View : 
-[Click Here](https://utkarshshrivastawa.github.io/End-Poverty-Now-Donation-Page.github.io/)
+### [Click Here](https://utkarshshrivastawa.github.io/End-Poverty-Now-Donation-Page.github.io/)
 
 
 
