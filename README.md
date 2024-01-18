@@ -39,7 +39,8 @@ For any inquiries, reach out to:
 #### Connect with us on social media for updates:
     Facebook
     LinkedIn
-    Instagram and Twitter: Links available on the website.
+    Instagram
+    Twitter
 
 
 # To View : 
